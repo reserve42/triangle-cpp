@@ -1,3 +1,5 @@
+// made by @heirich (reserve42) 
+
 #include <iostream>
 #include <cmath>
 #include <stdexcept>
