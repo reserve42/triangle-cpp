@@ -1,4 +1,4 @@
-// made by @heirich (reserve42) 
+// made by @heinrich (reserve42) Copyright (c) 2024 42
 
 #include <iostream>
 #include <cmath>
